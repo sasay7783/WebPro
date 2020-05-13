@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+	
+}
+
+header{
+	border-radius:20px; height: 30%; position: relative; background-color: pink; width: 50%;
+}
+
+#content{
+	margin: 10px 9px 50px; height: 50%; background-color: yellow;
+}
+
+#areaMain{
+	position: relative; float:left; padding: 10px 0;
+	border: purple 3px solid; width: 50%;
+}
+
+#areaSub{
+	border: green 1px solid; width: 5%; height:90px; float:left;
+}
+
+footer{
+ clear:both; height: 30%;
+}
